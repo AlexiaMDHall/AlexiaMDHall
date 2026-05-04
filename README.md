@@ -2,6 +2,7 @@
 Aspiring Business Analyst · Junior, University of South Florida · B.S. Business Analytics & Information Systems
 
 About me
+
 I'm a junior at the University of South Florida pursuing a degree in Business Analytics and Information Systems, with a focus on bridging data-driven insights with real-world business decisions. I'm actively developing my technical skill set through hands-on coursework and project work.
 
 Tech stack
